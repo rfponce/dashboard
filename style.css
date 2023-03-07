@@ -1,0 +1,7 @@
+.avatar {
+    width: 32px;
+}
+
+.avatar.user_avatar {
+    width: 64px;
+}
