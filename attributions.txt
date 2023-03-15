@@ -3,3 +3,12 @@
 <a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/demon" title="demon icons">Demon icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/layout" title="layout icons">Layout icons created by Karacis - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/comment" title="comment icons">Comment icons created by Smashicons - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/history" title="history icons">History icons created by Google - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/list" title="list icons">List icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/community" title="community icons">Community icons created by KP Arts - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/settings" title="settings icons">Settings icons created by Pixel perfect - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/contact-us" title="contact us icons">Contact us icons created by alimasykurm - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/privacy-policy" title="privacy policy icons">Privacy policy icons created by sonnycandra - Flaticon</a>
