@@ -5,3 +5,11 @@
 .avatar.user_avatar {
     width: 64px;
 }
+
+.icon {
+    width: 16px;
+}
+
+ul {
+    list-style: none;
+}
