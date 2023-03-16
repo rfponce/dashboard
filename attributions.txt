@@ -14,3 +14,6 @@
 <a href="https://www.flaticon.com/free-icons/privacy-policy" title="privacy policy icons">Privacy policy icons created by sonnycandra - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/notification" title="notification icons">Notification icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/favorite" title="favorite icons">Favorite icons created by Aldo Cervantes - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/viewers" title="viewers icons">Viewers icons created by Vector Stall - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/share" title="share icons">Share icons created by Freepik - Flaticon</a>
