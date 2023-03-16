@@ -12,3 +12,5 @@
 <a href="https://www.flaticon.com/free-icons/settings" title="settings icons">Settings icons created by Pixel perfect - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/contact-us" title="contact us icons">Contact us icons created by alimasykurm - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/privacy-policy" title="privacy policy icons">Privacy policy icons created by sonnycandra - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/notification" title="notification icons">Notification icons created by Freepik - Flaticon</a>
