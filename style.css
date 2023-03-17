@@ -105,6 +105,10 @@ h1 {
     grid-row-end: 4;
 }
 
+.announcement p {
+    font-size: small;
+}
+
 #trendings {
     grid-column-start: 3;
     grid-column-end: 4;
