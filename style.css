@@ -33,7 +33,8 @@ h1 {
     grid-column-end: 5;
 }
 
-#header_top {
+#header_top,
+#header_bottom {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -41,14 +42,15 @@ h1 {
     padding-right: 10px;
 }
 
-#header_top_right {
+#header_top_right,
+#header_bottom_left {
     display: flex;
     align-items: center;
-    gap: 10px;
+    gap: 20px;
 }
 
 #search_field {
-    width: 30vw;
+    width: 35vw;
 }
 
 .username {
