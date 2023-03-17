@@ -83,7 +83,9 @@ h1 {
     gap: 20px;
 }
 
-.card {
+.card,
+#announcements-container,
+#trending-container {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
