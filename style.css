@@ -66,15 +66,12 @@ h1 {
     grid-column-start: 2;
     grid-column-end: 3;
     display: grid;
-    grid-template-columns: 3fr, 2fr;
-    grid-template-rows: repeat(6, 1fr);
+    grid-template-columns: 4fr 1fr;
 }
 
 #projects {
     grid-column-start: 1;
-    grid-column-end: 3;
-    grid-row-start: 1;
-    grid-row-end: 7;
+    grid-column-end: 2;
     margin: 10px;
 }
 
@@ -102,10 +99,8 @@ h1 {
 }
 
 #announcements {
-    grid-column-start: 3;
-    grid-column-end: 4;
-    grid-row-start: 1;
-    grid-row-end: 4;
+    grid-column-start: 2;
+    grid-column-end: 3;
 }
 
 .announcement p {
@@ -113,10 +108,8 @@ h1 {
 }
 
 #trendings {
-    grid-column-start: 3;
-    grid-column-end: 4;
-    grid-row-start: 4;
-    grid-row-end: 7;
+    grid-column-start: 2;
+    grid-column-end: 3;
 }
 
 .avatar {
