@@ -52,6 +52,7 @@ h1 {
 
 #search_field {
     border-radius: 50px;
+    width: 35vw;
 }
 
 #header_top_right,
@@ -60,10 +61,6 @@ h1 {
     display: flex;
     align-items: center;
     gap: 20px;
-}
-
-#search_field {
-    width: 35vw;
 }
 
 #main-content {
