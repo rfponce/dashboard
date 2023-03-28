@@ -63,6 +63,14 @@ h1 {
     gap: 20px;
 }
 
+button {
+    background-color: var(--accent_color);
+    border-radius: 30px;
+    font-size: large;
+    color: #fff;
+    padding: 10px;
+}
+
 #main-content {
     grid-row-start: 2;
     grid-row-end: 3;
