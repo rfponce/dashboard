@@ -115,6 +115,14 @@ h1 {
     align-items: center;
 }
 
+.trending-item p {
+    margin: 0;
+}
+
+.user {
+    font-weight: bold;
+}
+
 .trending-item img,
 .trending-item_info {
     margin: 10px;
