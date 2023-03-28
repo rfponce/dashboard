@@ -20,7 +20,7 @@ body {
 
 #logo {
     display: flex;
-    gap: 10px
+    gap: 10px;
 }
 
 h1 {
@@ -128,9 +128,13 @@ h1 {
     margin: 10px;
 }
 
-.avatar {
+.avatar,
+.logo {
     width: 32px;
     height: 32px;
+}
+
+.avatar {
     border-radius: 50%;
     background-color: #000;
 }
