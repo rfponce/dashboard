@@ -114,6 +114,7 @@ h1 {
 .trending-item {
     display: flex;
     align-items: center;
+    font-size: smaller;
 }
 
 .trending-item p {
