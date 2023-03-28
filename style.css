@@ -110,6 +110,16 @@ h1 {
     grid-column-end: 3;
 }
 
+.trending-item {
+    display: flex;
+    align-items: center;
+}
+
+.trending-item img,
+.trending-item_info {
+    margin: 10px;
+}
+
 .avatar {
     width: 32px;
     height: 32px;
@@ -135,4 +145,8 @@ li {
     margin-bottom: 10px;
     display: flex;
     gap: 15px;
+}
+
+hr {
+    width: 90%;
 }
