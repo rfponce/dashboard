@@ -180,4 +180,5 @@ li {
 
 hr {
     width: 90%;
+    border-color: var(--accent_color);
 }
