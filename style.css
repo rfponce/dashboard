@@ -44,7 +44,8 @@ h1 {
 }
 
 #header_top_right,
-#header_bottom_left {
+#header_bottom_left,
+#header_top_left {
     display: flex;
     align-items: center;
     gap: 20px;
