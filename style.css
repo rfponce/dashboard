@@ -1,3 +1,11 @@
+:root {
+    --color1: #0460D9;
+    --color2: #0476D9;
+    --color3: #049DD9;
+    --color4: #04BFBF;
+    --accent_color:#04D9B2;
+}
+
 body {
     font-family: 'Ubuntu Mono', monospace;
     display: grid;
@@ -72,6 +80,10 @@ h1 {
     grid-column-start: 1;
     grid-column-end: 2;
     margin: 10px;
+}
+
+.project {
+    border-top: 10px solid var(--accent_color);
 }
 
 #cards-container {
