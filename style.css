@@ -152,7 +152,7 @@ h1 {
 
 .avatar {
     border-radius: 50%;
-    background-color: #000;
+    background-color: var(--accent_color);
 }
 
 .avatar.user_avatar {
