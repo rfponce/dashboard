@@ -43,6 +43,10 @@ h1 {
     padding-right: 10px;
 }
 
+#search_field {
+    border-radius: 50px;
+}
+
 #header_top_right,
 #header_bottom_left,
 #header_top_left {
