@@ -92,11 +92,12 @@ button {
 
 .project {
     border-top: 10px solid var(--accent_color);
+    max-width: 250px;
 }
 
 #cards-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    display: flex;
+    flex-wrap: wrap;
     gap: 20px;
 }
 
