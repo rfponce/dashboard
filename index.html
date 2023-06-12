@@ -17,9 +17,11 @@
             <h1>Dashboard</h1>
         </div>
 
+        <hr>
+        
         <ul id="menu-functions">
-            <li>
-                <img id="icon" src="./img/icons/home.png" alt="house icon" class="icon">
+            <li class="selected">
+                <img id="icon" src="./img/icons/home.png" alt="house icon" class="icon image_selected">
                 Home
             </li>
             <li>
@@ -58,6 +60,14 @@
                 Privacy
             </li>
         </ul>
+
+        <div id="user_logged">
+            <img src="./img/avatar/woman2.png" alt="woman avatar" class="avatar user_avatar">
+            <div id="user_info">
+                <h2 class="username">Nancy Salazar</h2>
+                <p class="userAccount">@psigestalt</p>
+            </div>
+        </div>
     </div>
     <div id="header">
         <div id="header_top">
@@ -72,13 +82,7 @@
             </div>
         </div>
         <div id="header_bottom">
-            <div id="header_bottom_left">
-                <img src="./img/avatar/woman2.png" alt="woman avatar" class="avatar user_avatar">
-                <div>
-                    <p>Hi there,</p>
-                    <h2 class="username">Nancy Salazar (<span class="userAccount">@psigestalt</span>)</h2>
-                </div>
-            </div>
+            
             <div id="header_bottom_right">
                 <button>New</button>
                 <button>Upload</button>

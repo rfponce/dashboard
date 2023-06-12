@@ -2,8 +2,7 @@
 <a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/demon" title="demon icons">Demon icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/layout" title="layout icons">Layout icons created by Karacis - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/dashboard" title="dashboard icons">Dashboard icons created by Pixel perfect - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/comment" title="comment icons">Comment icons created by Smashicons - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/history" title="history icons">History icons created by Google - Flaticon</a>
@@ -17,3 +16,4 @@
 <a href="https://www.flaticon.com/free-icons/favorite" title="favorite icons">Favorite icons created by Aldo Cervantes - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/viewers" title="viewers icons">Viewers icons created by Vector Stall - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/share" title="share icons">Share icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons created by Freepik - Flaticon</a>
