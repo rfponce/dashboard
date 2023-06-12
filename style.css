@@ -233,6 +233,10 @@ li {
     font-size: large;
 }
 
+li:hover {
+    color: var(--contrast_color);
+}
+
 hr {
     width: 90%;
     border-color: var(--color2);
