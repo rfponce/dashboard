@@ -136,7 +136,7 @@ button:hover {
 
 .project {
     border-top: 10px solid var(--accent_color);
-    max-width: 250px;
+    width: 200px;
 }
 
 #cards-container {
@@ -155,6 +155,7 @@ button:hover {
     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
     border-radius: 10px;
     background-color: var(--color3);
+    height: fit-content;
 }
 
 .card_icon_container {
