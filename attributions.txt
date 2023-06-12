@@ -1,9 +1,5 @@
-<a href="https://www.flaticon.com/free-icons/halloween" title="halloween icons">Halloween icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/demon" title="demon icons">Demon icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/dashboard" title="dashboard icons">Dashboard icons created by Pixel perfect - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/comment" title="comment icons">Comment icons created by Smashicons - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/history" title="history icons">History icons created by Google - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/list" title="list icons">List icons created by Freepik - Flaticon</a>
