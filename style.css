@@ -6,6 +6,7 @@
     --color5: #091224;
     --contrast_color: #b7e0a7;
     --accent_color: #081225;
+    --border_radius: 20px;
 }
 
 html {
@@ -32,7 +33,7 @@ body {
     flex-direction: column;
     gap: 20px;
     background-color: var(--color2);
-    border-radius: 20px;
+    border-radius: var(--border_radius);
     justify-content: space-evenly;
     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
     user-select: none;
@@ -42,7 +43,7 @@ body {
 .selected {
     background-color: var(--accent_color);
     width: 100%;
-    border-radius: 20px;
+    border-radius: var(--border_radius);
     color: var(--color3);
 }
 
@@ -66,20 +67,36 @@ h1 {
     grid-row-end: 2;
     grid-column-start: 2;
     grid-column-end: 3;
-}
-
-#header_top,
-#header_bottom {
+    background-color: var(--color3);
+    border-radius: var(--border_radius);
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding: 20px;
+    height: fit-content;
+}
+
+#search_container,
+#header_right {
+    padding: 10px;
+    display: flex;
+}
+
+#search_container {
+    background-color: var(--color2);
+    border-radius: var(--border_radius);
+}
+
+#header_right {
+    align-items: center;
+    gap: 20px;
 }
 
 #search_field {
-    border-radius: 50px;
+    border-style: none;
+    background-color: var(--color2);
     width: 35vw;
+    font-size: large;
 }
 
 #header_top_right,
@@ -96,6 +113,10 @@ button {
     font-size: large;
     color: #fff;
     padding: 10px;
+}
+
+button:hover {
+    color: var(--contrast_color);
 }
 
 #main-content {
@@ -221,6 +242,11 @@ button {
     width: 16px;
     height: 16px;
     padding: 5px;
+}
+
+.header_icon {
+    width: 32px;
+    height: 32px;
 }
 
 .image_selected {
