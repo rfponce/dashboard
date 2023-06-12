@@ -9,12 +9,17 @@
     --padding: 40px;
 }
 
+html {
+    height: 100vh;
+}
+
 body {
     font-family: 'Ubuntu Mono', monospace;
     display: grid;
     margin: 0;
     gap: 10px;
     margin: 50px;
+    height: 90%;
 }
 
 #sidebar {
