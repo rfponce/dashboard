@@ -26,7 +26,7 @@ body {
     grid-row-end: 3;
     grid-column-start: 1;
     grid-column-end: 2;
-    padding: 40px;
+    padding: 35px;
     display: flex;
     flex-direction: column;
     background-color: var(--color2);
@@ -122,7 +122,7 @@ button:hover {
     grid-column-start: 2;
     grid-column-end: 3;
     display: grid;
-    grid-template-columns: 7fr 200px;
+    grid-template-columns: 7fr minmax(150px, 200px);
     padding: 10px;
 }
 
@@ -168,6 +168,7 @@ button:hover {
     grid-column-end: 3;
     grid-row-start: 1;
     grid-row-end: 5;
+    height: fit-content;
 }
 
 .announcement p {
@@ -179,6 +180,7 @@ button:hover {
     grid-column-end: 3;
     grid-row-start: 5;
     grid-row-end: 7;
+    height: fit-content;
 }
 
 .trending-item {
@@ -186,7 +188,7 @@ button:hover {
     align-items: center;
     font-size: smaller;
 }
-
+menu
 .trending-item p {
     margin: 0;
 }
@@ -253,6 +255,7 @@ button:hover {
 ul {
     list-style: none;
     padding: 0;
+    margin: 0;
 }
 
 li {
