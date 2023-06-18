@@ -91,6 +91,12 @@ h1 {
 #header_right {
     align-items: center;
     gap: 20px;
+    width: fit-content;
+}
+
+#header_left {
+    margin-left: auto;
+    margin-right: auto;
 }
 
 #search_field {
@@ -98,14 +104,6 @@ h1 {
     background-color: var(--color2);
     width: 35vw;
     font-size: large;
-}
-
-#header_top_right,
-#header_bottom_left,
-#header_top_left {
-    display: flex;
-    align-items: center;
-    gap: 20px;
 }
 
 button {
