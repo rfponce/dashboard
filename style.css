@@ -1,3 +1,9 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
 :root {
     --color1: #b6c2c8;
     --color2: #f1f3f4;
@@ -9,14 +15,9 @@
     --border_radius: 20px;
 }
 
-html {
-    height: 100vh;
-}
-
 body {
     font-family: 'Ubuntu Mono', monospace;
     display: grid;
-    margin: 0;
     height: 90%;
     background-color: var(--color1);
 }
@@ -34,7 +35,7 @@ body {
     box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.25);
     user-select: none;
     max-width: fit-content;
-    height: fit-content;
+    height: 100vh;
 }
 
 .selected {
