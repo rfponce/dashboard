@@ -147,9 +147,9 @@ h3 {
 }
 
 #cards-container {
-    display: flex;
+    display: grid;
     gap: 20px;
-    flex-wrap: wrap;
+    grid-template-columns: repeat(auto-fill, 320px);
     height: 90%;
     margin: 10px;
 }
