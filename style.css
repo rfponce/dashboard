@@ -238,18 +238,11 @@ menu .trending-item p {
 .avatar.user_avatar {
     width: 64px;
     height: 64px;
-}
-
-#user_container {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    align-items: center;
+    margin: 10px;
 }
 
 #user_logged {
     display: flex;
-    flex-direction: column;
     align-items: center;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -258,7 +251,6 @@ menu .trending-item p {
 #user_logged h2,
 #user_logged p {
     margin: auto;
-    text-align: center;
 }
 
 .userAccount {
