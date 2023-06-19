@@ -7,6 +7,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
     <title>Dashboard</title>
 </head>
 
@@ -59,6 +60,13 @@
             </li>
         </ul>
 
+        <ul id="attributions-container">
+            <li>
+                <img src="./img/icons/thank-you.png" alt="thanks image" class="icon">
+                <button onclick="show_window()">Attributions</button>
+            </li>
+        </ul>
+
         <div id="user_container">
             <hr>
             <div id="user_logged">
@@ -73,7 +81,7 @@
     <div id="header">
         <div id="header_left">
             <div id="search_container">
-                <input type="text" name="" id="search_field" placeholder="Search" >
+                <input type="text" name="" id="search_field" placeholder="Search">
                 <img src="./img/icons/loupe.png" alt="magnifying glass icon" class="icon header_icon">
             </div>
         </div>
@@ -214,7 +222,7 @@
                 </div>
             </div>
         </div>
-        
+
         <div id="trendings">
             <h3>Trending</h3>
             <div id="trending-container">
@@ -247,6 +255,56 @@
                     </div>
                 </div>
             </div>
+        </div>
+    </div>
+
+    <div id="attributions">
+        <div id="attributions-window">
+            <img src="./img/icons/thank-you.png" alt="thanks image">
+            <p>I would like to express my gratitude to the authors of the images that I used in my project. They have contributed to the quality and attractiveness of my work. I appreciate their generosity and creativity. I have cited the sources of the images below.</p>
+            <a href="https://www.flaticon.com/free-icons/user" title="user icons">User icons created by Freepik -
+                Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/dashboard" title="dashboard icons">Dashboard icons created by
+                Pixel
+                perfect - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/comment" title="comment icons">Comment icons created by
+                Smashicons
+                - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/history" title="history icons">History icons created by Google
+                -
+                Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/list" title="list icons">List icons created by Freepik -
+                Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/community" title="community icons">Community icons created by
+                KP
+                Arts - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/settings" title="settings icons">Settings icons created by
+                Pixel
+                perfect - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/contact-us" title="contact us icons">Contact us icons created
+                by
+                alimasykurm - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/privacy-policy" title="privacy policy icons">Privacy policy
+                icons
+                created by sonnycandra - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/search" title="search icons">Search icons created by Freepik -
+                Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/notification" title="notification icons">Notification icons
+                created
+                by Freepik - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/favorite" title="favorite icons">Favorite icons created by Aldo
+                Cervantes - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/viewers" title="viewers icons">Viewers icons created by Vector
+                Stall - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/share" title="share icons">Share icons created by Freepik -
+                Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/home-button" title="home button icons">Home button icons
+                created by
+                Freepik - Flaticon</a>
+            <a href="https://www.flaticon.com/free-icons/thank-you" title="thank you icons">Thank you icons created by
+                Freepik - Flaticon</a>
+
+            <button id="attributions-button" onclick="hide_window()">Ok</button>
         </div>
     </div>
 </body>
