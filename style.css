@@ -251,6 +251,8 @@ menu .trending-item p {
     display: flex;
     flex-direction: column;
     align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 #user_logged h2,
